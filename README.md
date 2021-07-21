@@ -5,9 +5,9 @@ I'm so happy but i didn't realize that the test would be this hard, i'm really s
 Overall it was my mistake for didn't taking this test seriously and again thanks for reviewing my project
 
 my reference for this code is
--https://github.com/ChrisStayte/ReactDex
--https://github.com/TylerPottsDev/react-hooks-w-pokemon
+-https://github.com/ChrisStayte/ReactDex,
+-https://github.com/TylerPottsDev/react-hooks-w-pokemon,
 -https://github.com/rivera1294/pokemon
 
-Warmest Regards
+Warmest Regards,
 Bagas Dwi Prasetyo
